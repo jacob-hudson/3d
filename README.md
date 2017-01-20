@@ -12,3 +12,4 @@ Cura - https://ultimaker.com/en/products/cura-software
 ## Useful Links
 - Thingiverse.com - Lots of free 3D models, etc
 - mpselectmini.com - User-made website for the printer
+- http://reprap.org/wiki/G-code - Gcode overview
