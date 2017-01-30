@@ -14,3 +14,4 @@ Cura - https://ultimaker.com/en/products/cura-software
 - http://mpselectmini.com - User-made website for the printer
 - http://reprap.org/wiki/G-code - Gcode overview
 - https://www.simplify3d.com/support/print-quality-troubleshooting/ - 3D Print Quality troubleshooting guide.
+- http://gcode.ws - G-code viewer (it may also help in print estimation)
